@@ -149,10 +149,10 @@ header {
 .portfolio-pic {
     position: relative;
     float: left;
-    width: 200px;
+    width: 300px;
     height: 200px;
-    margin-bottom: 50px;
-    margin-right: 40px;
+    margin-bottom: 2rem;
+    margin-right: 2rem;
 }
 
 .portfolio-text {
@@ -322,13 +322,13 @@ input[type=text], select, textarea {
   }
 
   .portfolio-pic {
-    height: 220px;
-    width: 220px;
+    height: 180px;
+    width: 280px;
   }
 
   .portfolio-text {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
  }
 
@@ -365,13 +365,14 @@ input[type=text], select, textarea {
   }
 
   .portfolio-pic {
-    height: 240px;
-    width: 240px;
+    height: 160px;
+    width: 260px;
+    margin-right: 20px;
   }
 
   .portfolio-text {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
  
  }
@@ -435,13 +436,15 @@ input[type=text], select, textarea {
   }
 
   .portfolio-pic {
-    height: 418px;
+    height: 300px;
     width: 438px;
+    margin-right: 0;
+    margin-bottom: 1rem;
   }
 
   .portfolio-text {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
  
  }
